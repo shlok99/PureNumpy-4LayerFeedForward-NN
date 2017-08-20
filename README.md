@@ -11,4 +11,5 @@
 1. Change the layers to match the number of neurons, 1st layer represents the number of inputs, 2nd layer should have the same number of inputs as the number of neurons from the 1st layer and the 3rd layer shoudl have 1 neuron with the same number of inputs as the number of neurons from the 2nd layer.   
 2. Create an instance of NeuralNetwork and pass the three layers  
 
-  
+# Dependencies
+Only numpy
